@@ -1,0 +1,253 @@
+/* fonts */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+/* all */
+.all {
+    display: flex;  
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+/* main part white */
+
+.main_part_white {
+    background-color: white;
+    padding: 105px 90px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.h3main {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.h4main {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+/* about */
+
+.about {
+    margin-bottom: 40px;
+}
+
+.ab_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+.ab_name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+}
+
+.ab_info {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 270px;
+}
+
+/* Projects */
+
+.projects {
+    margin-bottom: 50px;
+}
+
+.project_list {
+    padding: 0px;
+    margin-left: 18px;
+}
+
+.project_item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project_text,
+.project_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project_link {
+    margin-left: 10px;
+    text-decoration-line: none;
+}
+
+.project_bracket {
+    color: black;
+    font-weight: bold;
+}
+
+/* work */
+
+.time {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.orange {
+    color: orangered;
+}
+
+.line {
+    font-weight: bold;
+}
+.work_list {
+    padding: 0px;
+    margin-left: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.company2 {
+    margin: 16px 0px 16px 0px;
+}
+
+/* education */
+
+.h4main_orange {
+    color: orangered;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.course {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+}
+
+/*  */
+/* sidebar blue */
+/*  */
+
+.sidebar_blue {
+    background-color: #1E2939;
+    color: white;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.h3sidebar {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 370px;
+  }
+
+/* contacts */
+
+.contacts {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.contacts_type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.c_type {
+    margin-bottom: 0px;
+}
+
+.contact_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #B7BBC0;
+    text-decoration-line: none;
+}
+
+/* tech skills */
+
+.tech_s {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.ts_list {
+    padding: 0;
+    margin-left: 17px;
+}
+
+.ts_list_item {
+    color: orangered;
+}
+
+.ts_list_text {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* soft skills */
+
+.soft_s {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.ss_list {
+    padding: 0;
+    margin-left: 17px;
+}
+
+.ss_list_item {
+    color: orangered;
+}
+
+.ss_list_text {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
